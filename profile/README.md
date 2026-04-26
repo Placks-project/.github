@@ -1,5 +1,7 @@
-# PLACKS
-**Connecting Hands, Breaking Barriers.**
+# Placks - Connecting Hands, Breaking Barriers
+
+![Logo](https://github.com/julienheinen/Placks/blob/main/Placks/Assets.xcassets/AppIcon.appiconset/Icon-180.png?raw=true)
+
 
 Placks est un projet d'application mobile et d'Intelligence Artificielle conçu pour rendre la communication accessible à tous. Notre objectif est simple : **casser la barrière de la langue entre les personnes sourdes et les personnes entendantes.**
 
