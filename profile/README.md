@@ -1,4 +1,4 @@
-https://github.com/Placks-project/Placks-Android# Placks - Connecting Hands, Breaking Barriers
+# Placks - Connecting Hands, Breaking Barriers
 
 ![Logo](https://github.com/julienheinen/Placks/blob/main/Placks/Assets.xcassets/AppIcon.appiconset/Icon-180.png?raw=true)
 
