@@ -1,4 +1,4 @@
-# Placks - Connecting Hands, Breaking Barriers
+https://github.com/Placks-project/Placks-Android# Placks - Connecting Hands, Breaking Barriers
 
 ![Logo](https://github.com/julienheinen/Placks/blob/main/Placks/Assets.xcassets/AppIcon.appiconset/Icon-180.png?raw=true)
 
@@ -32,9 +32,9 @@ Placks est pensé pour la vraie vie :
 
 Pour mener à bien cette mission, le projet technique est divisé en deux parties :
 
-* 📱 **[Placks-IOS](#)** : Le code de l'application mobile (pour iPhone). C'est l'interface que les utilisateurs auront entre les mains, conçue pour être la plus simple et fluide possible.
-* 📱 **[Placks-Android](#)** : Le code de l'application mobile (pour Android).
-* 🤖 **[Placks-AI](#)** : Le code pour l'IA du projet
+* 📱 **[Placks-IOS](https://github.com/Placks-project/Placks-IOS)** : Le code de l'application mobile (pour iPhone). C'est l'interface que les utilisateurs auront entre les mains, conçue pour être la plus simple et fluide possible.
+* 📱 **[Placks-Android](https://github.com/Placks-project/Placks-Android)** : Le code de l'application mobile (pour Android).
+* 🤖 **[Placks-AI](https://github.com/Placks-project/Placks-AI)** : Le code pour l'IA du projet
 ## 🤝 Nous aider
 
 Créer une IA capable de comprendre une langue aussi riche que la LSF (Langue des Signes Française) est un défi de taille. Le plus grand challenge actuel est le manque de données pour entraîner notre IA. 
